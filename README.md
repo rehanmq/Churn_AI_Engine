@@ -1,6 +1,3 @@
-# Churn_AI_Engine
-The Smart Engine for Customer Retention and Churn Insight
-
 # Churn_AI_Engine - Intelligent Churn Prediction and Explainability Engine
 
 This repository contains the codebase for **Churn_AI_Engine**, an end-to-end machine learning pipeline designed to predict customer churn and provide business-explainable insights using SHAP.
